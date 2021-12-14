@@ -9,7 +9,7 @@ No canviïs el nom del fitxer ni el títol del post.
 
 ## Que afegeixes?
 
-Què necessites per començar? Quina acció fas? Quin resultat trobes?
+Què necessites per començar? Quina acció fas? Quin resultat trobes? 
 
  * Given that "leonard" is playing.
  * Go to the next player "leonard"
